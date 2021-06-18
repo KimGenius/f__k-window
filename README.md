@@ -23,4 +23,7 @@ B: 음... [이거](https://github.com/KimGenius/f__k-window) 봐봐!
 - 그리고 **역대급 레전드 갱신** ㅋㅋㅋㅋㅋㅋㅋ 갑자기 o랑 3이 엄청 눌려짐 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 아 ㅋㅋㅋㅋㅋㅋ \
 https://user-images.githubusercontent.com/29722636/122027192-dcd46f00-ce05-11eb-8ec9-944cd9ace59d.mp4
 
+## 2021-06-18
+- 작업표시줄 제거가 안됨 ㅋㅋ
+![image](https://user-images.githubusercontent.com/29722636/122493951-83498b80-d023-11eb-9441-8c2e4d5653ed.png)
 
