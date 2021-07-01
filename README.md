@@ -27,3 +27,6 @@ https://user-images.githubusercontent.com/29722636/122027192-dcd46f00-ce05-11eb-
 - 작업표시줄 제거가 안됨 ㅋㅋ
 ![image](https://user-images.githubusercontent.com/29722636/122493951-83498b80-d023-11eb-9441-8c2e4d5653ed.png)
 
+## 2021-07-01
+- 네~ 시작하세요~
+![image](https://user-images.githubusercontent.com/29722636/124055083-3b345b00-da5e-11eb-9e07-c4819803d48c.png)
