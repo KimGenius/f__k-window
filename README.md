@@ -30,3 +30,8 @@ https://user-images.githubusercontent.com/29722636/122027192-dcd46f00-ce05-11eb-
 ## 2021-07-01
 - 네~ 시작하세요~
 ![image](https://user-images.githubusercontent.com/29722636/124055083-3b345b00-da5e-11eb-9e07-c4819803d48c.png)
+
+## 2021-07-21
+- 아 고정으로 키 눌리는거 개빡치네 ctrl 키 고정으로 눌리길래 재부팅했는데 이번엔 alt키 ㅋㅋㅋㅋ 아아까깛땨:뤈ㄸ껴ㅑㅣ룬ㄷ겨ㅓ로
+
+
